@@ -1,0 +1,4 @@
+base\TestBase.class
+tests\HomeTest.class
+base\BrowserManager.class
+pages\HomePage.class
